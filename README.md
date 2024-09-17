@@ -7,7 +7,7 @@ Code: I craft clean, efficient, and maintainable code in JavaScript.<br/>
 Collaborate: I love working on collaborative projects.<br/>
 Innovate: I enjoy experimenting with new technologies and pushing the boundaries of what’s possible.<br/>
 
-🌟 Projects & Contributions
+🌟 Projects & Contributions<br/>
 Backlog: A project I am currently working on is a LetterBox clone but with a video game twist!.<br/>
 TPG: Theme Park Guide is another app I am working on that improves your theme park experience by creating a personalized itinerary, helping you navigate attractions, dining, and entertainment to make the most of your day.<br/>
 
