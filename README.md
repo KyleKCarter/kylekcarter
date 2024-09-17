@@ -8,8 +8,8 @@ Collaborate: I love working on collaborative projects.<br/>
 Innovate: I enjoy experimenting with new technologies and pushing the boundaries of what’s possible.<br/>
 
 🌟 Projects & Contributions<br/>
-Backlog: A project I am currently working on is a LetterBox clone but with a video game twist!.<br/>
-TPG: Theme Park Guide is another app I am working on that improves your theme park experience by creating a personalized itinerary, helping you navigate attractions, dining, and entertainment to make the most of your day.<br/>
+[Backlog](https://github.com/KyleKCarter/Backlog): A project I am currently working on is a LetterBox clone but with a video game twist!.<br/>
+[TPG](https://github.com/KyleKCarter/theme-park-planner): Theme Park Guide is another app I am working on that improves your theme park experience by creating a personalized itinerary, helping you navigate attractions, dining, and entertainment to make the most of your day.<br/>
 
 📚 Currently Learning<br/>
 Cloud Engineering: I’m diving into the cloud and excited about its potential.<br/>
